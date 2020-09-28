@@ -28,3 +28,17 @@ a {
     font-size: 18px;
     color: #393e42;
 }
+
+.releases {
+    margin-top: 15px;
+}
+
+.label {
+    color: white;
+    font-size: 0.9em;
+    padding: 2px;
+    border-radius: 5px;
+}
+  
+.latest {background-color: #4CAF50;}
+.beta {background-color: #f34121;} 
