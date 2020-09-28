@@ -1,0 +1,30 @@
+* {
+    margin: 0.5px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #23272A;
+    color: white;
+    margin: 1.6vw;
+}
+
+a {
+    color: #F6AE2D;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+.content p {
+    padding-top: 0.2vw;
+}
+
+.footer {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+    color: #393e42;
+}
