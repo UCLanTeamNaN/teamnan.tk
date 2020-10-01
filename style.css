@@ -33,6 +33,14 @@ a {
     margin-top: 15px;
 }
 
+i {
+    color: #9FA2B2;
+}
+
+.yellow {
+    color: #F6AE2D;
+}
+
 .label {
     color: white;
     font-size: 0.9em;
